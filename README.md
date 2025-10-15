@@ -31,6 +31,9 @@
   </a>
 </p>
 
+
+> **给新手的提示**：第一次贡献？建议从修复文档或添加简单示例开始！查看 [Good First Issues](https://github.com/langchain-ai/langchain/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) 来起步。
+
 LangChain is a framework for building LLM-powered applications. It helps you chain together interoperable components and third-party integrations to simplify AI application development —  all while future-proofing decisions as the underlying technology evolves.
 
 ```bash
